@@ -1,0 +1,4 @@
+window.addEventListener('load', function () {
+    document.querySelector("#judo-tv > div > div > div > main > div.mb-8 > div:nth-child(2) > div.w-full.md\\:pl-20.lg\\:pl-28 > div > div > div.flex-1 > div.mb-8.md\\:px-4 > div > div > div.flex.items-center.justify-center.top-0.left-0.right-0.absolute.z-10.\\!justify-start.w-4\\/5")?.remove();;
+    document.querySelector("#judo-tv > div > div > div > main > div.mb-8 > div:nth-child(2) > div.w-full.md\\:pl-20.lg\\:pl-28 > div > div > div.flex-1 > div.mb-8.md\\:px-4 > div > div > div.flex.items-center.justify-center.right-0.absolute.z-10.w-1\\/4.\\!justify-end.\\!items-end.bottom-\\[30\\%\\]")?.remove();
+});
